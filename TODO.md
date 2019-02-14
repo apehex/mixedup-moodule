@@ -1,5 +1,4 @@
-Naming
-------
+# Naming
 
 voix / hallucinations / ja /
 interprétation / sentiment personnel / signes
@@ -10,12 +9,14 @@ shannon / décomposition de Fourier /
 objet =
 animal =
 acronyme =
+run on a soundwave, flow, the soundof your steps
+gpx, kml
 
-Image processing
-----------------
+## Image processing
 
-Audio processing
-----------------
+## Trace Importing
+
+## Audio processing
 
 (X, Y) can be interpreted as :
 - (frequency, amplitude)
@@ -27,7 +28,6 @@ Audio processing
 - X as the freque
 
 Interpretation
---------------
 
 - [ ] as a frequency spectrum
 - [ ] as an intensity signal, over time
